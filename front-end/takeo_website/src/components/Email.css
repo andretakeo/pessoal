@@ -1,0 +1,42 @@
+.all{
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.top-all{
+height: 10rem;
+width: 20rem;
+}
+
+.top-title{    
+    padding-top: 2rem;
+    height: 5rem;
+}
+
+.top-text{
+
+    height: 3rem;
+    margin: 1rem;
+    height: 5rem;
+}
+
+.email{
+    height: 10rem;
+    width: 13rem;
+}
+
+.email-container{
+    padding-top: 2rem;
+    height: 25rem;
+    width: 22rem;
+    /* background-color: #212521; */
+    border: 3px solid #212521; ;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 15%;
+}
+

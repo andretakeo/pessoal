@@ -1,0 +1,14 @@
+.titulo{
+ padding-top: 2rem;
+ display: flex;
+ justify-content: center;
+}
+.texto{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.all-sobre{
+    width: 80%;
+}
